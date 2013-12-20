@@ -1,0 +1,7 @@
+[options]
+log_file = spider.log
+log_level = 3
+thread_num = 10
+db_file = spider.db
+down_file = 
+key_word = 

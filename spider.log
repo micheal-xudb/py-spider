@@ -1,0 +1,6 @@
+2013-09-26 00:02:31,386 WARNING spider 深度 1 完成，共访问 1 个链接 
+ 下个深度将访问链接数 4
+2013-09-26 00:02:35,498 WARNING page_handler Page not avaliable. Status code:404 URL: http://www.cnnic.cn/html/Dir/2005/12/30/3486.htm 
+
+2013-09-26 00:02:37,403 WARNING spider 深度 2 完成，共访问 4 个链接 
+ 下个深度将访问链接数 353
